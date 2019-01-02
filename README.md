@@ -1,6 +1,6 @@
 # Harmony Hub Climate Component
 
-I created this custom climate component to control air conidioners through a Harmony Hub. I forked from this [project](https://github.com/vpnmaster/homeassistant-custom-components), which was created for Broadlink RM Devices, so thanks goes to [vpnmaster](https://github.com/vpnmaster) for doing the hard work in creating that component.
+Forked from this [project](https://github.com/so3n/HA_harmony_climate_component). Probably out of date, I do not have enough knowlege and understanding to maintain. Instructions below just for reference (they do work:)
 
 #### Installing
 Download or clone this project, and place the custom_components folder and its contents into your Home Assistant config folder.
